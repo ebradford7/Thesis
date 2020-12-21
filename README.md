@@ -1,4 +1,4 @@
-# Magic Leap Unity Project Template
+# Designing Robots in Mixed Reality
 
 ## Project
 
