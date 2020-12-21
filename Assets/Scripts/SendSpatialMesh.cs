@@ -40,8 +40,7 @@ public class SendSpatialMesh : MonoBehaviour
             using (var ws = new WebSocket("ws://127.0.0.1:4649/Laputa"))
             {
                 Debug.Log("Trigger Pressed");
-                //string path = Path.Combine(Application.persistentDataPath, "data");
-                //path = Path.Combine(path, "roomModel" + ".stl");
+
                 string path = "C:/Users/Brian/Desktop/newRoomModel.stl";
                 GameObject[] gameObjArray = new GameObject[1];
 
