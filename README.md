@@ -1,6 +1,6 @@
 # Designing Robots in Mixed Reality
 
-![alt text](https://github.com/ebradford7/designing-robots-in-mixed-reality/blob/main/framework.JPEG | width=100)
+![alt text](https://github.com/ebradford7/designing-robots-in-mixed-reality/blob/main/framework.JPEG)
 
 ## Project
 
