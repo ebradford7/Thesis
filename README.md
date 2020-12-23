@@ -1,5 +1,7 @@
 # Designing Robots in Mixed Reality
 
+![alt text](https://github.com/ebradford7/designing-robots-in-mixed-reality/blob/main/framework.JPEG)
+
 ## Project
 
 Hello, Cube!
@@ -20,4 +22,4 @@ v0.24.0
 
 ## Instructions After Downloading
 
-![alt text](https://github.com/ebradford7/designing-robots-in-mixed-reality/blob/main/framework-example.JPEG)
+
